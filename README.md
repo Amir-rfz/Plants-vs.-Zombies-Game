@@ -39,4 +39,4 @@ Feel free to submit pull requests for bug fixes or feature suggestions!
 
 ---
 
-Enjoy defending your garden against the zombie invasion! 🧟‍♂️🌻
+Enjoy defending your garden against the zombie invasion!🤝

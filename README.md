@@ -2,6 +2,13 @@
 
 A custom implementation of the **Plant vs. Zombies** game using the **SFML** library. In this tower defense game, you must strategically place plants to stop waves of zombies from reaching your house.
 
+<p align="center">
+  <img src="https://github.com/Amir-rfz/Plants-vs-Zombies-Game/blob/main/extrafile/gameplay.gif" 
+      alt="Gameplay Preview" width="700" style="border: 1px solid #ddd; border-radius: 8px;">
+  <br>
+  <em>Gameplay Preview</em>
+</p>
+
 ## Features
 - Multiple types of plants and zombies with different abilities.
 - Real-time strategy gameplay with increasing difficulty.
